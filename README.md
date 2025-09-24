@@ -5,3 +5,6 @@
 
 - **sw.java**: Este arquivo contém os exercícios de `switch case`.  
   [Visualizar](https://github.com/Zero-0Dev/MateriaAlgoritimos/blob/main/sw.java)
+  - **ALfor.java**: Este arquivo contém os exercícios de `For`.  
+  [Visualizar](https://github.com/Zero-0Dev/MateriaAlgoritimos/blob/main/ALfor.java)
+
